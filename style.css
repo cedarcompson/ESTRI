@@ -1,10 +1,10 @@
 :root {
-  primary-color: #00367d;
-  accent-color: #6699cc;
-  background-color: #f9f9f9;
-  text-color: #222;
-  link-hover: #aadfff;
-  font-body: 'Atkinson Hyperlegible', sans-serif;
+  --primary-color: #00367d;
+  --accent-color: #6699cc;
+  --background-color: #f9f9f9;
+  --text-color: #222;
+  --link-hover: #aadfff;
+  --font-body: 'Atkinson Hyperlegible', sans-serif;
 }
 
 body {
