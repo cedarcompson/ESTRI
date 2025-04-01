@@ -55,3 +55,23 @@ footer {
   bottom: 0;
   font-size: 0.9rem;
 }
+
+.subnav {
+  margin: 1rem 0 2rem;
+  text-align: center;
+}
+
+.subnav a {
+  display: inline-block;
+  margin: 0 0.75rem;
+  color: var(--primary-color);
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  transition: all 0.2s ease;
+}
+
+.subnav a:hover {
+  color: var(--accent-color);
+  text-shadow: 0 0 1px var(--accent-color);
+}
