@@ -141,9 +141,15 @@ footer {
     border-bottom: 2px solid var(--accent-color);
   }
 
-  .research-sidebar h4 {
-    display: none;
-  }
+.research-sidebar h4 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 1px solid var(--accent-color);
+  padding-bottom: 0.5rem;
+}
 
   .research-sidebar a {
     margin: 0.3rem 0.5rem;
