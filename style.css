@@ -111,7 +111,7 @@ footer {
 .research-sidebar a {
   display: block;
   margin: 0.5rem 0;
-  color: var(--background-color);
+  color: var(--primary-color);
   text-decoration: none;
   font-weight: 600;
   padding: 0.3rem 0.5rem;
@@ -130,4 +130,3 @@ footer {
     display: none;
   }
 }
-
