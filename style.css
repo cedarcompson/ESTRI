@@ -94,15 +94,14 @@ footer {
   border: 2px solid var(--accent-color);
   padding: 1rem;
   border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   z-index: 999;
 }
 
 .research-sidebar h4 {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   margin-bottom: 1rem;
   color: var(--primary-color);
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px;
   border-bottom: 1px solid var(--accent-color);
   padding-bottom: 0.5rem;
