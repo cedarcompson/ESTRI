@@ -101,7 +101,7 @@ footer {
   font-size: 1.1rem;
   margin-bottom: 1rem;
   color: var(--primary-color);
-  text-transform: none;
+  text-transform: capitalize;
   letter-spacing: 1px;
   border-bottom: 1px solid var(--accent-color);
   padding-bottom: 0.5rem;
