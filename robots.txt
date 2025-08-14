@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://es-tri.org/sitemap.xml
